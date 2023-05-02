@@ -55,14 +55,16 @@
 
    ```
    - Clone este repositório:
-   $ git clone https://github.com/levinsousa/desafio-nepen
+   $ git clone https://github.com/levinsousa/desafio-nepen-fullstack.git
+
+   $ git submodule update --init
 
   ```
   - Front-end
 
   ```
    - Enter in directory:
-   $ cd desafio-nepen/desafio-nepen-frontend
+   $ cd desafio-nepen-fullstack/frontend
 
    - For install dependencies:
     with npm
@@ -80,7 +82,7 @@
 
   ```
    - Entre no diretório:
-   $ cd desafio-nepen/api
+   $ cd desafio-nepen-fullstack/backend
 
    - Utilize para instalar as dependências:
     com npm
