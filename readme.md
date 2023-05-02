@@ -53,6 +53,8 @@
 
 <h2 align="center">Como usar? 🤔</h2>
 
+<h3 align="center">Com Git</h3>
+
    ```
    - Clone este repositório:
    $ git clone https://github.com/levinsousa/desafio-nepen-fullstack.git
@@ -63,18 +65,18 @@
   - Front-end
 
   ```
-   - Enter in directory:
+   - Entre no diretório:
    $ cd desafio-nepen-fullstack/frontend
 
-   - For install dependencies:
-    with npm
+   - Utilize para instalar as dependências:
+    com npm
       $ npm install
 
-   - Execute application:
-    with npm
+   - Execute a aplicação:
+    com npm
       $ npm run start
 
-   - Open your browser in:
+   - Front-end rodando em seu navegador:
    http://localhost:3000/ 
   ```
 
@@ -95,6 +97,51 @@
    - Rodando aplicação na porta 5500:
    http://localhost:5500/doc 
    ```
+   
+   <h3 align="center">Manualmente</h3>
+   
+   - Front-end
+   
+   ```
+   - Entre no repositório do Front-end e faça o download
+   $ https://github.com/levinsousa/desafio-nepen-frontend
+   
+   - Entre no diretório:
+   $ cd desafio-nepen-frontend
+
+   - Utilize para instalar as dependências:
+    com npm
+      $ npm install
+
+   - Execute a aplicação:
+    com npm
+      $ npm run start
+
+   - Front-end rodando em seu navegador:
+   http://localhost:3000/ 
+   ```
+   
+   - Back-end
+
+  ```
+   - Entre no repositório do Front-end e faça o download
+   $ https://github.com/levinsousa/desafio-nepen-frontend
+  
+   - Entre no diretório:
+   $ cd desafio-nepen-backend
+
+   - Utilize para instalar as dependências:
+    com npm
+      $ npm install
+
+   - Execute a aplicação:
+    com npm
+      $ npm run serve
+
+   - Rodando aplicação na porta 5500:
+   http://localhost:5500/doc 
+   ```
+   
 
 ---
 
